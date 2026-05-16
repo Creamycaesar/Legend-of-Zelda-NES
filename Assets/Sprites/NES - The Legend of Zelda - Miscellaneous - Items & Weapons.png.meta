@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 0c31d4d3c6342674597f184170e334a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8187849047879319644
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_0
+  - first:
+      213: -3825615296274115970
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_1
+  - first:
+      213: -7539127468988125078
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_2
+  - first:
+      213: -8077675239017039738
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_3
+  - first:
+      213: -7152037362959794989
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_4
+  - first:
+      213: 8484402803577033023
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_5
+  - first:
+      213: -287006589040385307
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_6
+  - first:
+      213: -7502387230551212314
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_7
+  - first:
+      213: -3377051982307466
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_8
+  - first:
+      213: 3918608932971620014
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_9
+  - first:
+      213: -6642736079105794793
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_10
+  - first:
+      213: -275330239037307750
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_11
+  - first:
+      213: 6388382940269530861
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_12
+  - first:
+      213: 3081281885088207917
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_13
+  - first:
+      213: 4229043247198659343
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_14
+  - first:
+      213: 1749430548050729519
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_15
+  - first:
+      213: -7987842272534482202
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_16
+  - first:
+      213: -1475633569945673674
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_17
+  - first:
+      213: 6871063483621959672
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_18
+  - first:
+      213: 4101249942443960042
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_19
+  - first:
+      213: 2470039675682246685
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_20
+  - first:
+      213: -3734317103227932559
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_21
+  - first:
+      213: 326853601033840000
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_22
+  - first:
+      213: 1209311463111490582
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_23
+  - first:
+      213: -4714827469989482197
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_24
+  - first:
+      213: -2411357949875472962
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_25
+  - first:
+      213: -65934235709253978
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_26
+  - first:
+      213: -6247630859978618142
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_27
+  - first:
+      213: -9113821957167922560
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_28
+  - first:
+      213: -3332649657355751331
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_29
+  - first:
+      213: 6677304988220925823
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_30
+  - first:
+      213: 5327505901449706583
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_31
+  - first:
+      213: 2873326744488494172
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_32
+  - first:
+      213: 3073244990602869998
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_33
+  - first:
+      213: 4558833990740658979
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_34
+  - first:
+      213: 5826832703773674463
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_35
+  - first:
+      213: -8642885274526157557
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_36
+  - first:
+      213: 4298984672257153020
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_37
+  - first:
+      213: 7641498568776069673
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_38
+  - first:
+      213: 8393359349606781111
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_39
+  - first:
+      213: 2746782531274140165
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_40
+  - first:
+      213: 5160687202283427450
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_41
+  - first:
+      213: -6531230280809268724
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_42
+  - first:
+      213: 7829957019412171673
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_43
+  - first:
+      213: -6037214434029815080
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_44
+  - first:
+      213: 1376242113805098612
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_45
+  - first:
+      213: -5801098162548131659
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_46
+  - first:
+      213: 6437376463418337978
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_47
+  - first:
+      213: -3059627992688275867
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_48
+  - first:
+      213: -4104201535584493637
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_49
+  - first:
+      213: -940808855757906447
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_50
+  - first:
+      213: -8049652601021020164
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_51
+  - first:
+      213: 7496727976338820358
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_52
+  - first:
+      213: -7344907233178807797
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_53
+  - first:
+      213: -4332059098487841141
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_54
+  - first:
+      213: -6554318841022566928
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_55
+  - first:
+      213: 2307836503662054364
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_56
+  - first:
+      213: -436406527557243753
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_57
+  - first:
+      213: 2023164424938822571
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_58
+  - first:
+      213: -3996077462263708168
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_59
+  - first:
+      213: -6466092118924350067
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_60
+  - first:
+      213: -942227654820519410
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_61
+  - first:
+      213: 7061535360301572327
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_62
+  - first:
+      213: 7517398190880285134
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_63
+  - first:
+      213: -8657114072628295657
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_64
+  - first:
+      213: 3486367744440125237
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_65
+  - first:
+      213: 3915773336514066146
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_66
+  - first:
+      213: -186162214773001694
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_67
+  - first:
+      213: 8653872914099925202
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_68
+  - first:
+      213: -5770568662202989437
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_69
+  - first:
+      213: -5833042020218421498
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_70
+  - first:
+      213: 540249453949012412
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_71
+  - first:
+      213: -3111282405765335625
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_72
+  - first:
+      213: 4903571489595446824
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_73
+  - first:
+      213: 2705827471609782778
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_74
+  - first:
+      213: 1330614076503132404
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_75
+  - first:
+      213: 1837129067315143979
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_76
+  - first:
+      213: -6467143973520758405
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_77
+  - first:
+      213: -3475479066508574538
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_78
+  - first:
+      213: -3424622354402229608
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_79
+  - first:
+      213: 3107072582604438314
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_80
+  - first:
+      213: -296368361578744233
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_81
+  - first:
+      213: 1041754353600803088
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_82
+  - first:
+      213: -4902449654634686113
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_83
+  - first:
+      213: 1166150222910645181
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_84
+  - first:
+      213: -5077802007060641456
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_85
+  - first:
+      213: -5960349609862144474
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_86
+  - first:
+      213: 9043396645968795345
+    second: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aff1aa0caaee5e80800000000000000
+      internalID: -8187849047879319644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72d742382fa8eac0800000000000000
+      internalID: -3825615296274115970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60b29ec283af5790800000000000000
+      internalID: -7539127468988125078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 105
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688bb6fda2556ef80800000000000000
+      internalID: -8077675239017039738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb57859ebdebc90800000000000000
+      internalID: -7152037362959794989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319986c567aeb570800000000000000
+      internalID: 8484402803577033023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e22d042709540cf0800000000000000
+      internalID: -287006589040385307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee719b209a22e790800000000000000
+      internalID: -7502387230551212314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd430d69004fff0800000000000000
+      internalID: -3377051982307466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea622771012b16630800000000000000
+      internalID: 3918608932971620014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d5a341bb240d3a0800000000000000
+      internalID: -6642736079105794793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 87
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94024a3b94dd2cf0800000000000000
+      internalID: -275330239037307750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee4ee3ef6818a850800000000000000
+      internalID: 6388382940269530861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 114
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2457859c89e2ca20800000000000000
+      internalID: 3081281885088207917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f036a094d6490ba30800000000000000
+      internalID: 4229043247198659343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 103
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ad7c780d9374810800000000000000
+      internalID: 1749430548050729519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2bbb746cb752190800000000000000
+      internalID: -7987842272534482202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 103
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302fbc161f758be0800000000000000
+      internalID: -1475633569945673674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 103
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7e17a75dbea5f50800000000000000
+      internalID: 6871063483621959672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 106
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6a672e7119ae830800000000000000
+      internalID: 4101249942443960042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 106
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10592a8ff7574220800000000000000
+      internalID: 2470039675682246685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170fe6f316a0d2cc0800000000000000
+      internalID: -3734317103227932559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085ed2f4e97398400800000000000000
+      internalID: 326853601033840000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c71955e5658c010800000000000000
+      internalID: 1209311463111490582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 90
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21f5027561919eb0800000000000000
+      internalID: -4714827469989482197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bb5378b2298ed0800000000000000
+      internalID: -2411357949875472962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a653067921c51ff0800000000000000
+      internalID: -65934235709253978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eac43f85d4fb49a0800000000000000
+      internalID: -6247630859978618142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082c9d09733358180800000000000000
+      internalID: -9113821957167922560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50bb743bcc00c1d0800000000000000
+      internalID: -3332649657355751331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772ad7428d8aac50800000000000000
+      internalID: 6677304988220925823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf4ba146a1fe940800000000000000
+      internalID: 5327505901449706583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54cdd8537b10e720800000000000000
+      internalID: 2873326744488494172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf1a4490c56aa20800000000000000
+      internalID: 3073244990602869998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bc2106c5b344f30800000000000000
+      internalID: 4558833990740658979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 76
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb0f02e8711dd050800000000000000
+      internalID: 5826832703773674463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05f96182ad4e0880800000000000000
+      internalID: -8642885274526157557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79cbc48cf09ab30800000000000000
+      internalID: 4298984672257153020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922bd8f367e0c0a60800000000000000
+      internalID: 7641498568776069673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01489cbd33b7470800000000000000
+      internalID: 8393359349606781111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae7dbb8288e1620800000000000000
+      internalID: 2746782531274140165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_41
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7612010ba17e9740800000000000000
+      internalID: 5160687202283427450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 76
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab61ed9a86c55a0800000000000000
+      internalID: -6531230280809268724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b83ac9c6899ac60800000000000000
+      internalID: 7829957019412171673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dabac27571873ca0800000000000000
+      internalID: -6037214434029815080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e194e29e4691310800000000000000
+      internalID: 1376242113805098612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b52ae4fb5e7fa0800000000000000
+      internalID: -5801098162548131659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa28b69c7265950800000000000000
+      internalID: 6437376463418337978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e49fe1d840a85d0800000000000000
+      internalID: -3059627992688275867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9fd8c272fa07c0800000000000000
+      internalID: -4104201535584493637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd120f845391f2f0800000000000000
+      internalID: -940808855757906447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c7d6bb93e94090800000000000000
+      internalID: -8049652601021020164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d8867006ab90860800000000000000
+      internalID: 7496727976338820358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b021e2259c5a11a90800000000000000
+      internalID: -7344907233178807797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e12a0c33f61e3c0800000000000000
+      internalID: -4332059098487841141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_55
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd23388db16a05a0800000000000000
+      internalID: -6554318841022566928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbc4789215170020800000000000000
+      internalID: 2307836503662054364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce94b439291f9f0800000000000000
+      internalID: -436406527557243753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab9fa64359b31c10800000000000000
+      internalID: 2023164424938822571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 62
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c3de58b41b88c0800000000000000
+      internalID: -3996077462263708168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8daf860a73d346a0800000000000000
+      internalID: -6466092118924350067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_61
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02afd8a0f88ce2f0800000000000000
+      internalID: -942227654820519410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 62
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a2af1ffc9ff160800000000000000
+      internalID: 7061535360301572327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1659263d9235860800000000000000
+      internalID: 7517398190880285134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71884f84e90cbd780800000000000000
+      internalID: -8657114072628295657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537cbb3fdf0126030800000000000000
+      internalID: 3486367744440125237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6fdd75a1f975630800000000000000
+      internalID: 3915773336514066146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_67
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 62
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222fad5b37e9a6df0800000000000000
+      internalID: -186162214773001694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0fc40b09bb81870800000000000000
+      internalID: 8653872914099925202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c3612062daefa0800000000000000
+      internalID: -5770568662202989437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 49
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f34f8ff2fdc0fa0800000000000000
+      internalID: -5833042020218421498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9cab8140a5f7700800000000000000
+      internalID: 540249453949012412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53f60e22182d4d0800000000000000
+      internalID: -3111282405765335625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d1102a4cfc0440800000000000000
+      internalID: 4903571489595446824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af16bc4dfb70d8520800000000000000
+      internalID: 2705827471609782778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f88a13e37a477210800000000000000
+      internalID: 1330614076503132404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252dd7372bce7910800000000000000
+      internalID: 1837129067315143979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79acfa02d61046a0800000000000000
+      internalID: -6467143973520758405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_78
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b04370f33e94cfc0800000000000000
+      internalID: -3475479066508574538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_79
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8924ef3fc1c4970d0800000000000000
+      internalID: -3424622354402229608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3e794d0a8e1b20800000000000000
+      internalID: 3107072582604438314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_81
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7563f6d9b8613ebf0800000000000000
+      internalID: -296368361578744233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b79da01e057e00800000000000000
+      internalID: 1041754353600803088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_83
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 36
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59534e630007fbb0800000000000000
+      internalID: -4902449654634686113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 20
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e45ff27ffe2010800000000000000
+      internalID: 1166150222910645181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 20
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05982695af50889b0800000000000000
+      internalID: -5077802007060641456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e570feb95984da0800000000000000
+      internalID: -5960349609862144474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Miscellaneous - Items & Weapons_87
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6dde5e559908d70800000000000000
+      internalID: 9043396645968795345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_0: -8187849047879319644
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_1: -3825615296274115970
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_10: -6642736079105794793
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_11: -275330239037307750
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_12: 6388382940269530861
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_13: 3081281885088207917
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_14: 4229043247198659343
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_15: 1749430548050729519
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_16: -7987842272534482202
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_17: -1475633569945673674
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_18: 6871063483621959672
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_19: 4101249942443960042
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_2: -7539127468988125078
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_20: 2470039675682246685
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_21: -3734317103227932559
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_22: 326853601033840000
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_23: 1209311463111490582
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_24: -4714827469989482197
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_25: -2411357949875472962
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_26: -65934235709253978
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_27: -6247630859978618142
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_28: -9113821957167922560
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_29: -3332649657355751331
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_3: -8077675239017039738
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_30: 6677304988220925823
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_31: 5327505901449706583
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_32: 2873326744488494172
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_33: 3073244990602869998
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_34: 4558833990740658979
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_35: 5826832703773674463
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_36: -8642885274526157557
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_37: 4298984672257153020
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_38: 7641498568776069673
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_39: 8393359349606781111
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_4: -7152037362959794989
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_40: 2746782531274140165
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_41: 5160687202283427450
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_42: -6531230280809268724
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_43: 7829957019412171673
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_44: -6037214434029815080
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_45: 1376242113805098612
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_46: -5801098162548131659
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_47: 6437376463418337978
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_48: -3059627992688275867
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_49: -4104201535584493637
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_5: 8484402803577033023
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_50: -940808855757906447
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_51: -8049652601021020164
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_52: 7496727976338820358
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_53: -7344907233178807797
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_54: -4332059098487841141
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_55: -6554318841022566928
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_56: 2307836503662054364
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_57: -436406527557243753
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_58: 2023164424938822571
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_59: -3996077462263708168
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_6: -287006589040385307
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_60: -6466092118924350067
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_61: -942227654820519410
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_62: 7061535360301572327
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_63: 7517398190880285134
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_64: -8657114072628295657
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_65: 3486367744440125237
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_66: 3915773336514066146
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_67: -186162214773001694
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_68: 8653872914099925202
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_69: -5770568662202989437
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_7: -7502387230551212314
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_70: -5833042020218421498
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_71: 540249453949012412
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_72: -3111282405765335625
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_73: 4903571489595446824
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_74: 2705827471609782778
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_75: 1330614076503132404
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_76: 1837129067315143979
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_77: -6467143973520758405
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_78: -3475479066508574538
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_79: -3424622354402229608
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_8: -3377051982307466
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_80: 3107072582604438314
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_81: -296368361578744233
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_82: 1041754353600803088
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_83: -4902449654634686113
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_84: 1166150222910645181
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_85: -5077802007060641456
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_86: -5960349609862144474
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_87: 9043396645968795345
+      NES - The Legend of Zelda - Miscellaneous - Items & Weapons_9: 3918608932971620014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
